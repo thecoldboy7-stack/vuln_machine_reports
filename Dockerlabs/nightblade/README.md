@@ -28,7 +28,7 @@ MAC Address: 9A:85:88:57:19:37 (Unknown)
 Nmap done: 1 IP address (1 host up) scanned in 0.63 seconds
 ```
 
-!image.png
+<img width="701" height="205" alt="image" src="https://github.com/user-attachments/assets/b7e660e6-56bf-4151-984b-a95249ded57c" />
 
 !image.png
 
